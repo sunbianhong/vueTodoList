@@ -6,7 +6,7 @@
     <br>
     <!-- <router-link to="/vuextodo">show vuexTodoList</router-link> -->
     <p>test1</p>
-    <p>test1-1</p>
+    <p>test1-1test1-1</p>
     <div class="childBox">
       <router-view/>
     </div>
