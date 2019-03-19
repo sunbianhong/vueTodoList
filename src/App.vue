@@ -3,6 +3,7 @@
     <router-link to="/normal">show normalTodoList</router-link><br/>
     <router-link to="/eventbus">show eventBusTodoList</router-link><br/>
     <!-- <router-link to="/vuextodo">show vuexTodoList</router-link> -->
+    <p>test1</p>
     <div class="childBox">
         <router-view/>
     </div>
